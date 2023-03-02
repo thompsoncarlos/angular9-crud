@@ -11,8 +11,10 @@
 [Cod3r Course](https://www.cod3r.com.br/courses/angular-9-essencial).
 
 ## How Can I Run the project?
-1. in root backend directory run `npm start`.
-2. in root frontend directory run `npm start`.
+1. in root backend directory run `npm install`, to download dependecies.
+2. run `npm start` to start json-server.
+3. in root frontend directory run `npm install`, to download dependecies.
+4. in other terminal run `npm start`.
 
 ## Backend
 This project was used json-server with db.json mock file.
