@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MacBook Pro de 13”",
+      "price": 1629.99
+    },
+    {
+      "id": 2,
+      "name": "iPad Pro",
+      "price": 1079.99
+    },
+    {
+      "id": 3,
+      "name": "Galaxy S23 Ultra",
+      "price": 1629.9
+    }
+  ]
+}
